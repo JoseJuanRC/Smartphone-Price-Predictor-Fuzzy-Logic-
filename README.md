@@ -4,17 +4,17 @@ This project uses fuzzy logic to classify and predict the price of smartphones. 
 
 ## Examples:
 
-- Input the following values: storage = 1000 GB, RAM = 12 GB, user opinion = 10
+- Input the following values: storage = 1000 GB, RAM = 12 GB, user opinion = 10. Predicted value = **1116.51**
   <p align="center">
     <img src="https://raw.githubusercontent.com/JoseJuanRC/Smartphone-Price-Predictor-Fuzzy-Logic-/main/R12_S1000_O10.png">
   </p>
 
-- Input the following values: storage = 1000 GB, RAM = 12 GB, user opinion = 5
+- Input the following values: storage = 1000 GB, RAM = 12 GB, user opinion = 5. Predicted value = **848.94**
   <p align="center">
     <img src="https://raw.githubusercontent.com/JoseJuanRC/Smartphone-Price-Predictor-Fuzzy-Logic-/main/R12_S1000_O5.png">
   </p>
 
-- Input the following values: storage = 12 GB, RAM = 200 GB, user opinion = 10  
+- Input the following values: storage = 12 GB, RAM = 200 GB, user opinion = 10. Predicted value = **761.5**
 <p align="center">
   <img src="https://raw.githubusercontent.com/JoseJuanRC/Smartphone-Price-Predictor-Fuzzy-Logic-/main/R4_S200_O10.png">
 </p>
